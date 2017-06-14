@@ -11,6 +11,6 @@
 # Blackcoin is a cryptocurrency which can be used as real money in online transactions etc. 
 # 
 
-<!-- Begin Gtop100 voting code -->
+
                 <a href="http://www.gtop100.com/topsites/MapleStory/sitedetails/BlackMS-92474?vote=1" title="MapleStory Private Server" target="_blank"><img src="http://www.gtop100.com/images/votebutton.jpg" border="0" alt="MapleStory Private Server"></a>
-                <!-- End Gtop100 voting code -->
+
